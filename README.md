@@ -38,14 +38,14 @@ This project aims to predict customers who are likely to churn and provide actio
 - Python
 - pandas, NumPy
 - scikit-learn
-
-## 📊 Dashboard Preview
-![Dashboard](DashBoard/Dashboard%201.png)
-![Dashboard](DashBoard/Dashboard%202.png)
-![Dashboard](DashBoard/Dashboard%203.png)
 - matplotlib, seaborn
 
 ## 🚀 Future Improvements
 - Threshold tuning
 - Advanced models (Random Forest, XGBoost)
 - Cost-sensitive evaluation
+
+## 📊 Dashboard Preview
+![Dashboard](DashBoard/Dashboard%201.png)
+![Dashboard](DashBoard/Dashboard%202.png)
+![Dashboard](DashBoard/Dashboard%203.png)
